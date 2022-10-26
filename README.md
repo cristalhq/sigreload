@@ -1,3 +1,7 @@
+# PROJECT IS ARCHIVED
+
+Archived in favor of [cristalhq/appx](https://github.com/cristalhq/appx)
+
 # sigreload
 
 [![build-img]][build-url]
